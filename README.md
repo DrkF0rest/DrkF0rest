@@ -40,14 +40,10 @@
 <a href="https://openai.com/chatgpt"><img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/></a>
 <a href="https://deepmind.google/technologies/gemini/"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
 <a href="https://www.deepseek.com/"><img src="https://img.shields.io/badge/DeepSeek-111111?style=for-the-badge&logo=data&logoColor=white"/></a>
-
+<a href="https://www.adobe.com/products/audition.html"><img src="https://img.shields.io/badge/Audition-2C2C2C?style=for-the-badge&logo=adobeaudition&logoColor=00E8FF"/></a>
+<a href="https://www.adobe.com/products/aftereffects.html"><img src="https://img.shields.io/badge/After%20Effects-2C2C2C?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF"/></a>
+<a href="https://www.adobe.com/products/premiere.html"><img src="https://img.shields.io/badge/Premiere%20Pro-2C2C2C?style=for-the-badge&logo=adobepremierepro&logoColor=EA77FF"/></a>
 </p>
-
-<div align="center">
-  <a href="https://www.adobe.com/products/aftereffects.html" style="margin: 0 20px;"><img src="https://skillicons.dev/icons?i=ae"/></a>
-  <a href="https://www.adobe.com/products/audition.html" style="margin: 0 20px;"><img src="https://skillicons.dev/icons?i=au"/></a>
-  <a href="https://www.adobe.com/products/premiere.html" style="margin: 0 20px;"><img src="https://skillicons.dev/icons?i=pr"/></a>
-</div>
 
 ---
 
