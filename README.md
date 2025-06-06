@@ -38,15 +38,9 @@
 </p>
 
 <div align="center">
-  <a href="https://www.adobe.com/products/aftereffects.html" style="margin: 0 10px;">
-    <img src="https://skillicons.dev/icons?i=ae" alt="adobeaftereffectslogo"/>
-  </a>
-  <a href="https://www.adobe.com/products/audition.html" style="margin: 0 10px;">
-    <img src="https://skillicons.dev/icons?i=au" alt="adobeauditionlogo"/>
-  </a>
-  <a href="https://www.adobe.com/products/premiere.html" style="margin: 0 10px;">
-    <img src="https://skillicons.dev/icons?i=pr" alt="adobepremiereprologo"/>
-  </a>
+  <a href="https://www.adobe.com/products/aftereffects.html" style="margin: 0 20px;"><img src="https://skillicons.dev/icons?i=ae"/></a>
+  <a href="https://www.adobe.com/products/audition.html" style="margin: 0 20px;"><img src="https://skillicons.dev/icons?i=au"/></a>
+  <a href="https://www.adobe.com/products/premiere.html" style="margin: 0 20px;"><img src="https://skillicons.dev/icons?i=pr"/></a>
 </div>
 
 ---
