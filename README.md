@@ -37,6 +37,18 @@
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
 </p>
 
+<div align="center">
+  <a href="https://www.adobe.com/products/aftereffects.html" style="margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=ae" alt="adobeaftereffectslogo"/>
+  </a>
+  <a href="https://www.adobe.com/products/audition.html" style="margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=au" alt="adobeauditionlogo"/>
+  </a>
+  <a href="https://www.adobe.com/products/premiere.html" style="margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=pr" alt="adobepremiereprologo"/>
+  </a>
+</div>
+
 ---
 
 ![](https://komarev.com/ghpvc/?username=DrkF0rest&base=568&style=flat-square&color=blueviolet)
