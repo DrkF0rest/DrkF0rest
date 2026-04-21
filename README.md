@@ -7,12 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditiabagashermawan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://linktr.ee/DarkFRST">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/aditiabagashermawan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linktr.ee/DarkFRST"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
 </p>
 
 ## About Me
@@ -114,22 +110,14 @@ Interested in automation, self-hosted environments, and efficient system design.
 ### 🤖 AI Tools
 
 <p align="left">
-<a href="https://openai.com/chatgpt">
-  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
-</a>
-<a href="https://deepmind.google/technologies/gemini/">
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</a>
-<a href="https://deepseek.com/">
-  <img src="https://img.shields.io/badge/DeepSeek-4285F4?style=for-the-badge&logo=deepseek&logoColor=white"/>
-</a>
-<a href="https://claude.ai/">
-  <img src="https://img.shields.io/badge/Claude-4285F4?style=for-the-badge&logo=claude&logoColor=orange"/>
-</a>
+  <a href="https://openai.com/chatgpt"><img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/></a>
+  <a href="https://deepmind.google/technologies/gemini/"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
+  <a href="https://deepseek.com/"><img src="https://img.shields.io/badge/DeepSeek-4285F4?style=for-the-badge&logo=deepseek&logoColor=white"/></a>
+  <a href="https://claude.ai/"><img src="https://img.shields.io/badge/Claude-4285F4?style=for-the-badge&logo=claude&logoColor=orange"/></a>
 </p>
 <p align="center">
-  <i>"AI is just a tool, it's up to you how you use it."</i>
-</p>
+    <i>"AI is just a tool, it's up to you how you use it."</i>
+  </p>
 
 ---
 
