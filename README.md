@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditiabagashermawan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://linktr.ee/DarkFRST"><img src="https://img.shields.io/badge/my.drkforest.site-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://my.drkforest.site"><img src="https://img.shields.io/badge/my.drkforest.site-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 ## About Me
