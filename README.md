@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditiabagashermawan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://linktr.ee/DarkFRST"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+  <a href="https://my.drkforest.site"><img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ## About Me
@@ -24,16 +24,15 @@ Interested in automation, self-hosted environments, and efficient system design.
 
 ### 📂 Featured Project
 
-- Self-hosted server (Docker + Nginx + Cloudflare)
+- **DocAMPP**
+- **REKABSEN**
+- **Dental Presence**
 
 ---
 
 ### 🚀 Last Project
 
-- 🔧 Network lab setup (Mikrotik)
-- 🌐 Homelab Automation server configuration (Ubuntu 26.04 LTS)
-- 🤖 Simple automation AI Server with n8n + Gemini API
-
+- #### Homelab Virtualization
 ---
 
 ### 🖥️ Operating System
@@ -75,6 +74,14 @@ Interested in automation, self-hosted environments, and efficient system design.
   <a href="https://tailscale.com/"><img src="https://img.shields.io/badge/Tailscale-007ACC?style=for-the-badge&logo=tailscale&logoColor=white"/></a>
 </p>
 
+#### Monitoring Tools
+
+<p align="left">
+  <a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/></a>
+  <a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/></a>
+  <a href="https://uptime.kuma.pet/"><img src="https://img.shields.io/badge/Uptime%20Kuma-3DC1D3?style=for-the-badge&logo=uptime-kuma&logoColor=white"/></a>
+</p>
+
 #### Automation
 
 <p align="left">
@@ -112,7 +119,7 @@ Interested in automation, self-hosted environments, and efficient system design.
 <p align="left">
   <a href="https://openai.com/chatgpt"><img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/></a>
   <a href="https://deepmind.google/technologies/gemini/"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
-  <a href="https://deepseek.com/"><img src="https://img.shields.io/badge/DeepSeek-4285F4?style=for-the-badge&logo=deepseek&logoColor=white"/></a>
+  <a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/></a>
   <a href="https://claude.ai/"><img src="https://img.shields.io/badge/Claude-4285F4?style=for-the-badge&logo=claude&logoColor=orange"/></a>
 </p>
 <p align="center">
